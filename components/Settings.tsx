@@ -113,7 +113,7 @@ const Settings: React.FC<SettingsProps> = ({ currentSettings, onSave }) => {
            </div>
            <div>
              <h3 className="text-lg font-bold text-white">High Confidence Alerts</h3>
-             <p className="text-sm text-zinc-500">Notify when confidence > 80%</p>
+             <p className="text-sm text-zinc-500">Notify when confidence &gt; 80%</p>
            </div>
          </div>
          
